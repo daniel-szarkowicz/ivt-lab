@@ -86,7 +86,7 @@ public class GT4500 implements SpaceShip {
           firingSuccess = secondaryTorpedoStore.fire(1) || firingSuccess;
           wasPrimaryFiredLast = false;
         }
-        //TODO implement feature
+        //TODO remove this todo
 
         break;
     }
